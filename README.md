@@ -30,6 +30,7 @@ Para me encontrar você pode clicar abaixo:
 
 <div>
   <a href="https://www.linkedin.com/in/humberto-bonadiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" /></a>
+  <br />
   <a href="mailto:humberto_bonadiman@hotmail.com">humberto_bonadiman@hotmail.com</a>
 </div>
 

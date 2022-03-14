@@ -35,15 +35,15 @@ Futuramente quero aprender mais sobre:
 Para me encontrar você pode clicar abaixo:
 
 <div>
-  <a href="https://www.linkedin.com/in/humberto-bonadiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" /></a>
+  <a href="https://www.linkedin.com/in/humberto-bonadiman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" /></a>
   <br />
-  <a href="mailto:humberto_bonadiman@hotmail.com">humberto_bonadiman@hotmail.com</a>
+  <a href="mailto:humberto_bonadiman@hotmail.com" target="_blank">humberto_bonadiman@hotmail.com</a>
 </div>
 <br />
 Aqui você pode ver meu portfólio:
 
 <div>
-  <a href="https://humberto-bonadiman.github.io/">Portfólio Humberto</a>
+  <a href="https://humberto-bonadiman.github.io/" target="_blank">Portfólio Humberto</a>
 </div>
 <br />
 Github Status e Linguagens mais utilizadas:

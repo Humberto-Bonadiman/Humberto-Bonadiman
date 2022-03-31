@@ -1,12 +1,10 @@
 ### Olá pessoal! 👋
 
-Bem vindos à minha página! 😁
+😁 Bem vindos à minha página!
 
-Eu sou o Humberto Bonadiman, também conhecido como Beto, moro em Boa VIsta, Roraima, Brasil. 🇧🇷
+🏡 Moro em Boa Vista - Roraima;
 
-Sou estudante de Desenvolvimento Web pela Trybe desde junho de 2021, com previsão para finalizar o curso ao final de maio de 2022. 👨‍🎓
-
-Meus hobbies são: sair com os amigos, assistir séries, ir para a academia, pedalar, leitura de livros sobre desenvolvimento pessoal e programar. ⚡
+🧑‍💻 Desenvolvedor Full Stack Júnior encantado por automatização de tarefas;
 
 O que eu já sei:
 
@@ -32,15 +30,13 @@ Futuramente quero aprender mais sobre:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" />
 </div>
 
-Para me encontrar você pode clicar abaixo:
+Email para contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/humberto-bonadiman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" /></a>
-  <br />
   <a href="mailto:humberto_bonadiman@hotmail.com" target="_blank">humberto_bonadiman@hotmail.com</a>
 </div>
 <br />
-Aqui você pode ver meu portfólio:
+Portfólio:
 
 <div>
   <a href="https://humberto-bonadiman.github.io/" target="_blank">Portfólio Humberto</a>

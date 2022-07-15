@@ -107,6 +107,7 @@ Portfólio:
 Github Status e Linguagens mais utilizadas:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Humberto-Bonadiman" alt="GitHub status" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humberto-Bonadiman" alt="Most used Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Humberto-Bonadiman" alt="GitHub status" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humberto-Bonadiman" alt="Most used Languages" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=humberto-bonadiman&" alt="humberto-bonadiman" />
  </div>

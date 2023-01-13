@@ -108,8 +108,8 @@ Github Status e Linguagens mais utilizadas:
 
 <div align="center">
   </br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humberto-Bonadiman" alt="Most used Languages" />
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Humberto-Bonadiman" alt="Most used Languages" />
   </br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Humberto-Bonadiman" alt="GitHub status" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Humberto-Bonadiman" alt="GitHub status" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=humberto-bonadiman&" alt="humberto-bonadiman" />
  </div>
